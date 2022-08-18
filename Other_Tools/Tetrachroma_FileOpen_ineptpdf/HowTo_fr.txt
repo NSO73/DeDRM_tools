@@ -1,0 +1,14 @@
+Installer python 2.7
+
+Ouvrir une invite de commande administrateur :
+cd C:\Python27\Scripts
+pip install pycryptodome
+pip install pywin32
+
+Éxecuter ineptpdf_8.4.51.pyw
+
+
+
+NOTE :
+Renseigner la version de FileOpen dans le fichier ligne 2285 si différent de B998
+self.fileopen['Build']='998'
